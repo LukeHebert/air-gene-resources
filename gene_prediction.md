@@ -1,7 +1,7 @@
 ---
 title: Germline Gene Prediction
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 # Tools for finding Adaptive Immune Receptor germline gene sequences in a genome assembly
