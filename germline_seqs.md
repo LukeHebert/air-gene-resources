@@ -16,7 +16,7 @@ International immunogenetics information system (IMGT) provides gene data for ma
 
 ## OGRDB
 Open Germline Receptor Database (OGRDB) provides gene data for a few well-studied species (and will include more in the future). Their platform is more transparent in its procurement process and has a more robust naming scheme. 
-- Main page: https://ogrdb.airr-community.org/
+- [Main page](https://ogrdb.airr-community.org/)
 
 ## Standalone publications
 Either these haven't been incorporated into the above-mentioned centralized databases and/or there is some other reason they should be considered outside of those databases.
