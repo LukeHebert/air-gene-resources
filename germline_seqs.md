@@ -1,5 +1,5 @@
 ---
-title: Germline Gene Sequences
+title: Download Reported Sequences
 layout: default
 nav_order: 2
 ---
