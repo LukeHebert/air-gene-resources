@@ -1,6 +1,8 @@
 title: Adaptive Immune Receptor (AIR) Gene Resource Links
 description: This is a list of resources concerning AIR gene (B cell receptor gene, T cell receptor gene) sequences and their procurement from genome assemblies. Multiple sources exist, so this is an attempt to collate them into a single place for convenience.
-remote_theme: jekyll-theme-midnight
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
 
 aux_links:
   GitHub Repository: https://github.com/LukeHebert/air-gene-resources
