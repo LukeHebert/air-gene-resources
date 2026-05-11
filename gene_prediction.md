@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 # Tools for finding Adaptive Immune Receptor germline gene sequences in a genome assembly
-(or other large contiguous germline sequence)
+(or in any large contiguous germline sequence)
 
 ## [IgDetective](https://github.com/Immunotools/IgDetective)
 - RSS-based approach for finding divergent genes. Well-tested in mammals.
