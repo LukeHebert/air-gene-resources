@@ -1,7 +1,7 @@
 ---
 title: Germline Gene Sequences
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 # Where to download germline AIR gene sequences & related data across species/populations
@@ -9,10 +9,10 @@ nav_order: 1
 ## IMGT
 International immunogenetics information system (IMGT) provides gene data for many vertebrate species, though mammalian species are most represented.
 *Note: servers are frequently unresponsive*
-- Main download page for sequences or locations: https://www.imgt.org/genedb/ 
-- Other species including fish can be found here (hard to find elswhere on their site): https://www.imgt.org/vquest/refseqh.html#:~:text=IG%20%22V-REGION%22%2C%20%22D-REGION%22%2C%20%22J-REGION%22%2C%20%22C-GENE%20exon%22%20sets
-- Terminology dictionary: https://www.imgt.org/ligmdb/label#
-- Gene anatomy (other numbers in the URL will bring you diagrams of other gene types): https://www.imgt.org/IMGTScientificChart/SequenceDescription/displayimage.php?id=19
+- [Main download page for sequences or locations](https://www.imgt.org/genedb/) 
+- [Other species including fish can be found here](https://www.imgt.org/vquest/refseqh.html#:~:text=IG%20%22V-REGION%22%2C%20%22D-REGION%22%2C%20%22J-REGION%22%2C%20%22C-GENE%20exon%22%20sets) *(difficult to find these elswhere on the IMGT site)*
+- [Terminology dictionary](https://www.imgt.org/ligmdb/label#)
+- [Gene anatomy](https://www.imgt.org/IMGTScientificChart/SequenceDescription/displayimage.php?id=19) *(other numbers in the URL will bring you diagrams of other gene types)*
 
 ## OGRDB
 Open Germline Receptor Database (OGRDB) provides gene data for a few well-studied species (and will include more in the future). Their platform is more transparent in its procurement process and has a more robust naming scheme. 
