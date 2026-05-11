@@ -1,5 +1,5 @@
 ---
-title: Germline Gene Prediction
+title: Annotate Genes Yourself
 layout: default
 nav_order: 3
 ---
