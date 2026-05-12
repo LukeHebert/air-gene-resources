@@ -7,7 +7,7 @@ nav_order: 2
 # Where to download germline AIR gene sequences & related data across species/populations
 
 ## IMGT
-International immunogenetics information system (IMGT) provides gene data for many vertebrate species, though mammalian species are most represented.
+International immunogenetics information system (IMGT) provides BCR & TCR gene data for many vertebrate species. Mammalian species are most represented.
 *Note: servers are frequently unresponsive*
 - [Main download page for sequences or locations](https://www.imgt.org/genedb/) 
 - [Other species including fish can be found here](https://www.imgt.org/vquest/refseqh.html#:~:text=IG%20%22V-REGION%22%2C%20%22D-REGION%22%2C%20%22J-REGION%22%2C%20%22C-GENE%20exon%22%20sets) *(difficult to find these elswhere on the IMGT site)*
